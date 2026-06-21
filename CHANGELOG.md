@@ -1,5 +1,13 @@
 # Changelog
 
+## [8.6.5](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.4...protobufjs-v8.6.5) (2026-06-21)
+
+
+### Bug Fixes
+
+* Support hardened prototype properties ([#2313](https://github.com/protobufjs/protobuf.js/issues/2313)) ([1aca107](https://github.com/protobufjs/protobuf.js/commit/1aca107aa7938d1e49a25f9653186db2f40a0253))
+* Use own-property semantics for internal maps ([#2335](https://github.com/protobufjs/protobuf.js/issues/2335)) ([9f97fe4](https://github.com/protobufjs/protobuf.js/commit/9f97fe413072d3beb52c74e62d88ea8adc9444d8))
+
 ## [8.6.4](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.3...protobufjs-v8.6.4) (2026-06-16)
 
 
